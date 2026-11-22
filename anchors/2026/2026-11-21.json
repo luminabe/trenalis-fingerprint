@@ -1,0 +1,9 @@
+{
+ "day": "2026-11-21",
+ "root": "5873aeafa6ae357ed04c13a1f6a5e54d3221e16608282793e3e0f6a495429129",
+ "files": 737,
+ "method": "rfc6962-sha256; leaf = sha256(0x00 || file sha256 || path); leaves in path order",
+ "previous_root": "4c7b88b44a3c567e9fdbcd74085edc46eac058bf6a4c358f56a02c7b463b12c6",
+ "made_at": "2026-11-22T00:30:54.034185+00:00",
+ "verify": "RFC 6962 inclusion proofs from Trenalis (scripts/audit/fingerprint.py prove / verify)"
+}
